@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+TURBINE
 ### Output:
+![image](https://github.com/user-attachments/assets/819050a2-f6f7-4771-b856-11383eca8777)
 
 
-### Name:
-### Register Number:
+### Name:RITHIKA L
+### Register Number : 212224230231
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
